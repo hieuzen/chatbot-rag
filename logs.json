@@ -1,0 +1,18 @@
+[
+  {
+    "user": "hello",
+    "assistant": "Chào bạn! Có gì tôi có thể giúp được không?"
+  },
+  {
+    "user": "tôi muốn hỏi bus đi sapa",
+    "assistant": "Bạn muốn biết thông tin về dịch vụ xe bus đi Sapa phải không? Giá vé cho VIP Bus như sau:\n\n- Giường trên cho 1 người: 18 USD\n- Giường dưới cho 1 người: 23 USD\n- Giường dưới cho 2 người: 28 USD\n\nXe từ Hà Nội đi Sapa hoạt động vào các khung giờ sau: 7:00 sáng, 8:00 sáng, 9:00 sáng, 9:30 sáng, 10:00 sáng, 11:00 sáng, 13:30 trưa, 14:00 chiều, 15:00 chiều, 16:00 chiều, 17:00 chiều, 22:00 tối.\n\nXe từ Sapa về Hà Nội hoạt động vào các khung giờ sau: 7:00 sáng, 8:00 sáng, 8:30 sáng, 9:00 sáng, 10:00 sáng, 11:00 sáng, 11:30 sáng, 12:30 trưa, 13:00 trưa, 13:30 trưa, 14:00 chiều, 14:30 chiều, 15:00 chiều, 16:00 chiều, 17:00 chiều, 18:00 chiều, 22:00 tối, 22:30 tối, 23:00 tối, 23:30 tối.\n\nNgoài ra, có dịch vụ xe đưa đón miễn phí từ khách sạn ở khu vực trung tâm Sapa.\n\nHy vọng thông tin này hữu ích cho bạn."
+  },
+  {
+    "user": "hello",
+    "assistant": "Xin chào! Bạn cần thông tin gì về dịch vụ Vip Bus từ Hà Nội đi Sapa và ngược lại không?"
+  },
+  {
+    "user": "giá vé bao nhiêu",
+    "assistant": "Giá vé cho Vip Bus Hà Nội đến Sapa và Sapa đến Hà Nội như sau:\n- Giường trên cho 1 người là 18 USD\n- Giường dưới cho 1 người là 23 USD\n- Giường dưới cho 2 người là 28 USD\n\nĐưa đón miễn phí từ khách sạn xung quanh trung tâm Sapa.\n\nVui lòng chọn giờ xuất phát phù hợp với bạn nhé!"
+  }
+]

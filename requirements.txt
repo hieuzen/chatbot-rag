@@ -1,0 +1,6 @@
+flask
+langdetect
+openai
+faiss-cpu
+scikit-learn
+numpy
