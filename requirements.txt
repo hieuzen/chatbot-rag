@@ -1,6 +1,8 @@
 flask
-langdetect
-openai
+gunicorn
+openai>=1.0.0
+python-dotenv
 faiss-cpu
 scikit-learn
+langdetect
 numpy
